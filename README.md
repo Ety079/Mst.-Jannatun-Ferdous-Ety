@@ -35,27 +35,19 @@
   <img src="https://skillicons.dev/icons?i=github,vscode,git,linux,windows" />
 </p>
 
----
 
-## 📊 GitHub Stats  
+## 📅 My Learning Journey  
+**HTML & CSS**  ██████████░░  90%  
+**C & C++**     █████████░░░  80%  
+**Algorithms**  ██████░░░░░░  60%  
+**Python**      ████░░░░░░░░  30%  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />
-</p>
 
----
 
-## 📅 Learning Journey  
 
-```mermaid
-timeline
-    title My Learning Journey
-    2023-04 : Started HTML & CSS
-    2024-06 : Learned C & C++
-    2025-01 : Exploring JavaScript & React.js
-    2025-04 : Learning Python Basics
-```
+## 🌟 Fun Extras (Unique)  
+- 🧩 **Daily Byte**: “Small consistent steps beat occasional sprints.”  
+- 🧭 **What I want to learn next**: <img src="https://img.shields.io/badge/Next-DSA%20%26%20OOP-informational?style=flat"> <img src="https://img.shields.io/badge/Next-React%20Projects-informational?style=flat">  
 
 ---
 
