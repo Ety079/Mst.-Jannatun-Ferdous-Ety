@@ -1,107 +1,71 @@
-# 👋 Hi, I'm Mst.Jannatun Ferdous Ety
+# 👋 Hi, I'm **Mst. Jannatun Ferdous Ety**  
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=60)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=55&fontAlignY=35&desc=Building%20Solutions%20Through%20Code&descAlignY=55&descAlign=65)
 
-I am an undergraduate student in Computer Science & Engineering (B.Sc. CSE) with a strong passion for 💻 coding, 🌐 web development, 🧩 problem-solving, and Algorithms 
-
-Currently learning Python language and Data Structures 
-
-🎯 My ambition is to become a professional software engineer who delivers scalable, reliable, and user-focused applications.
-
----
-
-## 🧭 About Me
-
-- 🔭 Currently exploring **Python, C, C++ and Java**  
-- 🌱 Curious about **Web Development, Software Development, and AI**  
-- 💡 Passionate about Competitive Programming, Problem Solving, and Algorithms 
-- 🎯 Goal: My vision is to become a skilled software engineer who creates impactful, scalable, and user-friendly solutions.
----
-
-## 🛠️ Tech Stack
-
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
-
-<h3 align="center">🌐 Web Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
-
-<h3 align="center">🛠 Tools & Platforms</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" style="margin:10px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-</p>
-
-
-
----
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mst-jannatun-ferdous-ety-540725370/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
-  </a>
-  <a href="jannatun3004@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
- 
-</p>
-
----
-## 💻 Projects & Games
-
-### 🎮 Tic Tac Toe Game
-A console-based implementation of **Tic-Tac-Toe**, demonstrating game logic and loops.  
-![Tikitaka](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-[GitHub Repository](https://github.com/your-username/tikitaka-game)
-
-### 🐍 Snake Game
-Classic **Snake Game** built using basic programming concepts.  
-![Snake](https://media.giphy.com/media/3ohc1xU6y9p37X0tqI/giphy.gif)  
-[GitHub Repository](https://github.com/your-username/snake-game)
+🎓 **Undergraduate Student** – Computer Science & Engineering (B.Sc. CSE)  
+💻 Passionate about **Coding, Web Development, and Problem-Solving**  
+🌱 Currently exploring **Python, Data Structures, and Web Technologies**  
+🎯 Aspiring **Software Engineer** who builds scalable & impactful solutions  
 
 ---
 
-## 📈 GitHub Stats
+## 🧭 About Me  
 
-<h3 align="center">💻 Programming Languages</h3>
+- 🔭 Currently learning **Python, Java, C, C++**  
+- 🌐 Exploring **Web Development, Software Engineering & AI**  
+- 💡 Enthusiastic about **Competitive Programming & Algorithms**  
+- 🚀 Vision: To become a **skilled software engineer** who creates reliable, user-friendly, and innovative applications  
+
+---
+
+## 🛠 Tech Stack  
+
+### 💻 Programming Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/C-75%25-lightgrey?style=for-the-badge&logo=c" alt="C" style="box-shadow: 0 0 10px #D3D3D3;" />
-  <img src="https://img.shields.io/badge/C++-70%25-blue?style=for-the-badge&logo=c%2B%2B" alt="C++" style="box-shadow: 0 0 10px #00599C;" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
 </p>
 
-<h3 align="center">🌐 Web Development</h3>
+### 🌐 Web Development  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5" alt="HTML" style="box-shadow: 0 0 10px #FFA500;" />
-  <img src="https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3" alt="CSS" style="box-shadow: 0 0 10px #1E90FF;" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,bootstrap" />
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,linux,windows" />
 </p>
 
 ---
 
-## 📅 Learning & Projects Timeline
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 📅 Learning Journey  
 
 ```mermaid
 timeline
-    title Ety's Learning Journey
+    title My Learning Journey
     2023-04 : Started HTML & CSS
-    2024-06 : Started C & C++
-    2025-02 : Built Tikitaka Game
-    2025-05 : Built Snake Game
-    2025-04 : Learning Python basics
+    2024-06 : Learned C & C++
     2025-01 : Exploring JavaScript & React.js
+    2025-04 : Learning Python Basics
+```
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:jannatun3004@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://www.linkedin.com/in/mst-jannatun-ferdous-ety-540725370/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+</p>
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_ ✨  
